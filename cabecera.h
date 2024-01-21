@@ -101,7 +101,7 @@ Objetivo: evalua si en la casilla dada se dara vida o muerte a un insecto
 Parametros de entrada:
 	int vecindades: valor respecto al cual se evaluara con una estructura condicional los posibles resultados
 Precondiciones: introducir como parametro la funcion vecinos, ademas de ser asignada a una posicion de la matriz booleana para simbolizar el estado del insecto en cuestion
-Valor devuelto: verdadero si aparece un bicho, falso si desaparece
+Valor devuelto: verdadero si aparece un bicho, falso si desaparece en dicho caso
 Autor: Jose Miguel Ojeda Gutierrez
 Fecha: 15-12-2023
 ----------------------------------------*/
